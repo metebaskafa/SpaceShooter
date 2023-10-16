@@ -1,4 +1,4 @@
 # SpaceShooter
- Space Shooter Game Exmaple
+ Space Shooter Game Example
 
  Download [here](https://github.com/metebaskafa/SpaceShooter/releases/)
